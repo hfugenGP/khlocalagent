@@ -17,6 +17,6 @@
 
 ### Version 1.1.1
 
-#### Features:
+#### Fix:
 
 - Fixed date range query for invoices.
