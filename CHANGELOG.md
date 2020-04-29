@@ -13,4 +13,10 @@
 
 #### Features:
 
-- Report logging.
+- Report logging. 
+
+### Version 1.1.1
+
+#### Features:
+
+- Fixed date range query for invoices.
