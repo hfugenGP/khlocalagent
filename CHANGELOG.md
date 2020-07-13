@@ -19,4 +19,10 @@
 
 #### Fix:
 
-- Fixed date range query for invoices.
+- Fixed date range query for invoices. 
+
+### Version 1.1.2
+
+#### Fix:
+
+- Fixed incorrect label for payments. 
