@@ -26,3 +26,9 @@
 #### Fix:
 
 - Fixed incorrect label for payments. 
+
+### Version 1.1.3
+
+#### Fix:
+
+- Fixed for missing payments. 
